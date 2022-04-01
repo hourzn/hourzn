@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Solidity.
 - 🤔 I’m looking for help with reverse engineering!
 
+[![Hou's GitHub stats](https://github-readme-stats.vercel.app/api?username=hourzn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hourzn/hourzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
