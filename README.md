@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hou! 👋
+
+- 🔭 I’m currently working on web3 NFTs.
+- 🌱 I’m currently learning Solidity.
+- 🤔 I’m looking for help with reverse engineering!
 
 <!--
 **hourzn/hourzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
