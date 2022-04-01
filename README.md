@@ -1,4 +1,4 @@
-### Hi there, I'm Hou! 👋
+### Hi there. 👋 I'm Hou! 
 
 - 🔭 I’m currently working on web3 NFTs.
 - 🌱 I’m currently learning Solidity.
