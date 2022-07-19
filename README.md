@@ -1,7 +1,7 @@
 ### Hi there. 👋 I'm Hou! 
 
-- 🔭 I’m currently working on web3 NFTs.
-- 🌱 I’m currently learning Solidity.
+- 🔭 I’m currently working on an electron/react application.
+- 🌱 I’m currently Java.
 - 🤔 I’m looking for help with reverse engineering!
 
 
