@@ -1,6 +1,6 @@
 ### Hi there. 👋 I'm Hou! 
 
-- 🔭 I’m currently working on an electron/react application.
+- 🔭 I’m currently working on an react native application for a restaurant.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with reverse engineering!
 
